@@ -1,0 +1,1 @@
+The jar files are in (Source code\projectchat_client\dist) and (Source code\projectchat_server\dist)
